@@ -4,7 +4,7 @@ import { useEffect, useState } from "react"
 import { motion } from "framer-motion"
 
 export default function MessageDisplay() {
-  const message = `I am sorry love. I made a mistake. You said actions speak more than words. This is the way of apologizing. I don't wanna go away from you. I only think about you. Please forgive me. I know it is a dealbreaker for you and I have removed my past. For a last ditch effort to save us I lied. Im Sorry I Promise I wont make the same mistakes again. I dont want to go away from you. I love you with all my heart I never regretted talking to you. Please come back home`
+  const message = `I am sorry love. I made a mistake. You said actions speak more than words. This is my way of apologizing. I don't wanna go away from you. I only think about you. Please forgive me. I know it is a dealbreaker for you and I have removed my past. For a last ditch effort to save us I lied. Im Sorry I Promise I wont make the same mistakes again. I dont want to go away from you. I love you with all my heart I never regretted talking to you. Please come back home`
 
   const [displayedText, setDisplayedText] = useState("")
 
